@@ -29,3 +29,7 @@
 [Пермский национальный преследовательсикй политехнический университет][url.pstu]
 
 [url.pstu]: http://pstu.ru
+
+
+
+![дуб](https://images.steamusercontent.com/ugc/1811033993950521294/EF5FD86F972966BFF652AFE404667757A073F467/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "мудрый дуб")
